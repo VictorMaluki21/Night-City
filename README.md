@@ -3,6 +3,8 @@
 Welcome to **Night City**, a futuristic web design concept built with HTML, CSS, and JavaScript. This project showcases a visually immersive, cyberpunk-inspired theme, featuring animations and sleek transitions — ideal for creative inspiration, learning, or contribution.
 
 🚀 **Live Preview**  
+
+Try Resizing the webpage and watch the effects.
 [Visit the site →](https://victormaluki21.github.io/Night-City/)
 
 ## 📸 Screenshots
@@ -45,10 +47,14 @@ To run this project locally:
 
 No backend or dependencies required.
 
+
 🧠 Inspiration
+
 Inspired by futuristic cityscapes in films like Blade Runner and Cyberpunk 2077, this site explores aesthetic storytelling through UI design.
 
+
 📬 Contact
+
 Created by Victor Maluki
 Feel free to reach out for collaborations or feedback!
 
